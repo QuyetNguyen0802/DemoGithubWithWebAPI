@@ -1,0 +1,6 @@
+@DemoGithubWithWebAPI_HostAddress = http://localhost:5262
+
+GET {{DemoGithubWithWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
